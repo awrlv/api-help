@@ -1,33 +1,28 @@
 ---
-title: Docs Playground
+title: XERO Viewer Client API home
 keywords: sample homepage
-tags: [getting_started]
+tags: 
 sidebar: mydoc_sidebar
 permalink: index.html
 toc: false
-summary: The topics in this Help system will help you get started quickly with Product 1 or Product 2, as well as provide additional information on installing and configuring Product 1 or Product 2.
+summary: The XERO Viewer Client API uses a URL-based syntax to communicate with XERO Viewer. The requests made to the API return a XERO Viewer user interface in the target web interface. Typically, this API interfaces with an EMR system.
 ---
 
-## Installing
-
-Download or clone this theme from the [Github repo](https://github.com/awrlv/docsPlayground) (https://github.com/awrlv/docsPlayground).
-
-### 1. How to know if Jekyll is right for you
-
-If you're really into web publishing, you will love Jekyll. If you like front-end design, if you like CSS, if you like designing navigation systems with websites, if you like viewing and working with content in the browser, if you enjoy having control over every aspect of the site, then you will love Jekyll.
-
-If you're technical enough to understand the details of web design and web publishing (especially HTML, CSS, and JavaScript), you will love Jekyll — period. Nothing compares to the freedom and flexibility of this static site generator.
+XERO Viewer is designed to be embedded in an Electronic Medical Record (<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.EMR}}">EMR</a>) system to allow images to be part of the complete patient record. 
 
 
 
-### 2. How to know if DITA is right for you
-
-If you're working in a big doc shop, where you have lots of technical writers, and you don't want them focused at all on any aspect of web design, or style sheets, or customization, if you want to have them focus solely on content, on filling up information templates for tasks, concepts, reference material, then DITA might be a good fit.
-
-If you want to plug into an existing platform that will facilitate publishing, and you have a budget and money to spend (like $30k), and you support the idea of information typing and think it's a good approach to doing technical documentation, then DITA will be a good fit for you.
+This <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.API}}">API</a> describes how you can embed XERO Viewer into your own EMR or launch XERO Viewer in a separate browser window.
 
 
+#### Intended audience
 
+The XERO Viewer Client API is designed for integrators and web developers with experience and knowledge of managing web applications. Working knowledge of XML and web services is not necessarily required for the XERO Viewer Client API.
 
+##### See also
+
+[http://medical.nema.org/dicom/2007/07_18pu.pdf](http://medical.nema.org/dicom/2007/07_18pu.pdf)
+
+[XERO Viewer Web Service API](http://knowledgebase-healthcare.agfa.net/enterprise_imaging/xero-viewer/8-1/xero-viewer-web-service-api/index.htm)
 
 {% include links.html %}

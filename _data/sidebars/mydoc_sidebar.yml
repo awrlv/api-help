@@ -23,18 +23,22 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Getting started
+    - title: Home
       url: /index.html
       output: web, pdf
       type: homepage
 
 
-    - title: Supported features
+    - title: Frequently asked questions (FAQ)
       url: /mydoc_supported_features.html
       output: web, pdf
+      
+    - title: Supported browsers, platforms for reference and diagnostic viewing
+      url: /mydoc_tables.html
+      output: web, pdf  
 
 
-  - title: Authoring
+  - title: Passing context to XERO Viewer
     output: web, pdf
 
     folderitems:
@@ -70,7 +74,7 @@ entries:
       url: /mydoc_atom_text_editor.html
       output: web, pdf
 
-  - title: Navigating
+  - title: Integrating XERO Viewer into the EMR
     output: web, pdf
 
     folderitems:
@@ -126,9 +130,7 @@ entries:
       url: /mydoc_navtabs.html
       output: web, pdf
 
-    - title: Tables
-      url: /mydoc_tables.html
-      output: web, pdf
+   
 
     - title: Syntax highlighting
       url: /mydoc_syntax_highlighting.html

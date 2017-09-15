@@ -1,11 +1,8 @@
 jekyll_platform: "Jekyll is a static site generator that builds sites using most modern web technologies."
 
-fractious: "Like a little mischevious child, full of annoying and constant trouble."
 
-gratuitous: "Something that is unwarranted and uncouth, like the social equivalent of a flagrant foul."
 
-haughty: "Proud and flaunting it. Holding your head high up like a snooty, too-good-for-everything rich person."
 
-impertinent: "Someone acting rude and insensitive to others."
-
-intrepid: "Brave and courageous especially in a difficult, dangerous situation."
+API: "Application Programming Interface. The interface or conventions by which an application program accesses the operating system and other services."
+EMR: "Electronic Medical Record. A computerized medical record created in an organization, such as a clinic or hospital. EMRs are part of a health information system that allows storage, retrieval, and modification of records."
+URL: "Uniform Resource Locator. Global address of documents and other resources on the Web. The first part of the URL is called a protocol identifier. It indicates what protocol to use. The second part is called a resource name. It specifies the IP address or the domain name where the resource is located. The protocol identifier and the resource name are separated by a colon and two forward slashes."
