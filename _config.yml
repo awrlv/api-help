@@ -1,21 +1,21 @@
 url: awrlv.github.io
-baseurl: /docsPlayground
+baseurl: /api-help
 
-repository: awrlv/docsPlayground
+repository: awrlv/api-help
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Docs Playground
+topnav_title: XERO Viewer Client API Help
 # this appears on the top navigation bar next to the home button
 
-site_title: Jekyll theme for Docs Playground
+site_title: XERO Viewer Client API Help
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Docs Team
+company_name: Agfa HealthCare
 # this appears in the footer
 
-github_editme_path: awrlv/docsPlayground/edit/reviews/
+github_editme_path: awrlv/api-help/edit/reviews/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 disqus_shortname:
@@ -36,7 +36,7 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Docs Playground using Jekyll
+feedback_subject_line: XERO Viewer Client API Help
 
 feedback_email: awrlv@agfa.com
 # used as a contact email for the Feedback link in the top navigation bar
@@ -108,7 +108,7 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "Documentation theme based on Jekyll and published to GitHub."
+description: "XERO Viewer Client API Help written in Jekyll and stored in GitHub."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
