@@ -30,7 +30,7 @@ entries:
 
 
     - title: Frequently asked questions (FAQ)
-      url: /mydoc_supported_features.html
+      url: /faq.html
       output: web, pdf
       
     - title: Supported browsers, platforms for reference and diagnostic viewing
