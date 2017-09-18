@@ -6,7 +6,7 @@
 
 
 h3 {color: #3ea060; }
-h4 {color: #3ea060; font-size:120%;}
+h4 {color: #000000; font-size:120%;}
 h5 {color: #000000; font-weight: bold;   font-size:110%;}
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
@@ -33,10 +33,22 @@ div.navbar-collapse .dropdown-menu > li > a:hover {
 }
 
 a[data-toggle="tooltip"] {
-    color: #649345;
-    font-style: italic;
+    color: #005AA4;
+	border-bottom: 1px dotted;
     cursor: default;
 }
+
+
+.tooltip > .tooltip-inner {
+    max-width: 200px;
+    padding: 3px 8px;
+    color: #fff;
+    text-align: left;
+    text-decoration: none;
+    background-color: #000;
+    border-radius: 4px
+}
+
 
 .navbar-inverse {
     background-color: #347DBE;
