@@ -1,13 +1,13 @@
 .summary {
     color: #808080;
     border-left: 5px solid #3ea060;
-    font-size:16px;
+    font-size:14px;
 }
 
 
 h3 {color: #3ea060; }
-h4 {color: #000000; font-size:120%;}
-h5 {color: #000000; font-weight: bold;   font-size:110%;}
+h4 {color: #000000; font-size:110%;}
+h5 {color: #000000; font-weight: bold;   font-size:100%;}
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
     background-color: #248ec2;
@@ -38,6 +38,7 @@ a[data-toggle="tooltip"] {
     cursor: default;
 	font-style: normal;
 }
+
 
 
 .tooltip > .tooltip-inner {
@@ -133,3 +134,5 @@ li.sidebarTitle {
 .navbar-inverse .navbar-toggle {
     border-color: #015CAE;
 }
+
+ 

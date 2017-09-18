@@ -1,5 +1,5 @@
 body {
-    font-size:15px;
+    font-size:14px;
 }
 
 .bs-callout {
@@ -553,7 +553,7 @@ hr.shaded {
     margin-top: 70px;
     background: white;
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
 }
 
 .fa-6x{font-size:900%;}
