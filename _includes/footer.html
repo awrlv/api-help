@@ -1,10 +1,13 @@
 <footer>
             <div class="row">
                 <div class="col-lg-12 footer">
-               &copy;{{ site.time | date: "%Y"  }} Agfa HealthCare N.V., Septestraat 27, B-2640, Mortsel, Belgium. All rights reserved. <br />
+                <xref href="/copyright-info.html">&copy;{{ site.time | date: "%Y"  }} Agfa HealthCare N.V., Septestraat 27, B-2640, Mortsel, Belgium. All rights reserved.</xref> <br />
+			   <b>Applies to:</b> XERO Viewer 8.1 Client API  <br />
 			  
-{% if page.last_updated %}<span>Page last updated:</span> {{page.last_updated}}<br/>{% endif %} Site last generated: {{ site.time | date: "%b %-d, %Y"  }} <br />
+{% if page.last_updated %}<span><b>Page last updated:</b></span> {{page.last_updated}}<br/>{% endif %} <b>Site last generated:</b> {{ site.time | date: "%b %-d, %Y"  }} <br />
 
                 </div>
             </div>
 </footer>
+
+

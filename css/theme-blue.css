@@ -36,6 +36,7 @@ a[data-toggle="tooltip"] {
     color: #005AA4;
 	border-bottom: 1px dotted;
     cursor: default;
+	font-style: normal;
 }
 
 

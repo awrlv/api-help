@@ -8,11 +8,11 @@ toc: false
 summary: The XERO Viewer Client API uses a URL-based syntax to communicate with XERO Viewer. The requests made to the API return a XERO Viewer user interface in the target web interface. Typically, this API interfaces with an EMR system.
 ---
 
-XERO Viewer is designed to be embedded in an Electronic Medical Record (<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.EMR}}">EMR</a>) system to allow images to be part of the complete patient record. 
+XERO Viewer is designed to be embedded in an <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.EMR}}">Electronic Medical Record (EMR)</a> system to allow images to be part of the complete patient record. 
 
 
 
-This <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.API}}">API</a> describes how you can embed XERO Viewer into your own EMR or launch XERO Viewer in a separate browser window.
+This <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.API}}">API</a> describes how you can [embed XERO Viewer into your own EMR][embedding-xero-viewer-in-emr] or launch XERO Viewer in a separate browser window.
 
 
 #### Intended audience
