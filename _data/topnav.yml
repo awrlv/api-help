@@ -14,6 +14,6 @@ topnav_dropdowns:
     - title: Migration paths
       folderitems:
         - title: Migrating from IMPAX ES
-          url: /p1_landing_page.html
+          url: /p1_landing.html
         - title: Migrating from IMPAX Data Center
           url: /p2_landing.html
