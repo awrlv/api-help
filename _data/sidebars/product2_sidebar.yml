@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: Preparing to migrate
-      url: /p2_landing_page.html
+      url: /p2_landing.html
       output: web
 
   - title: Simple Workflow
