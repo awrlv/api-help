@@ -11,7 +11,9 @@ summary:
 
 
 
+
 {% include callout.html content="The XERO Viewer Client API uses a [test] URL-based syntax to communicate with XERO Viewer. The requests made to the API return a XERO Viewer user interface in the target web interface. Typically, this API interfaces with an EMR system." type="success" %} 
+
 
 XERO Viewer is designed to be embedded in an <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.EMR}}">Electronic Medical Record (EMR)</a> system to allow images to be part of the complete patient record.
 
