@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Product 2
-  version: version 1.0
+  product: Migrating from
+  version: IMPAX Data Center
   folders:
 
   - title:
@@ -19,11 +19,11 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Introduction
+  - title: Getting started
     output: web, pdf
     folderitems:
 
-    - title: Overview
+    - title: Preparing to migrate
       url: /p2_landing_page.html
       output: web
 

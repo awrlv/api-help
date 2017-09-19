@@ -3,8 +3,8 @@
 
 entries:
 - title: sidebar
-  product: Product 1
-  version: version 1.0
+  product: Migrating from
+  version: IMPAX ES
   folders:
 
   - title:
@@ -23,7 +23,7 @@ entries:
   - title: Getting Started
     output: web, pdf
     folderitems:
-    - title: Product 1 home
+    - title: Preparing to migrate
       url: /p1_landing_page.html
       output: web
 
