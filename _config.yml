@@ -113,3 +113,17 @@ description: "XERO Viewer Client API Help written in Jekyll and stored in GitHub
 
 # needed for sitemap.xml file only
 url: http://idratherbewriting.com
+
+#prose.io configuration
+prose:
+  rooturl: '_pages'
+  siteurl: 'http://knowledgebase-healthcare-in.agfa.net/camieHTML5/Jekyll_XERO-api-site'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_tooltips
+    - /_data
+    - /_posts
+ 

@@ -65,6 +65,10 @@ entries:
     - title: Glossary
       url: /mydoc_glossary.html
       output: web, pdf    
+      
+    - title: Markdown conversion example
+      url: /markdown-example.html
+      output: web, pdf  
 
   - title: Using this Help system
     output: web, pdf
