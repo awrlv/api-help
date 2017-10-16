@@ -7,7 +7,7 @@ sidebar: mydoc_sidebar
 toc: false
 permalink: embedding-xero-viewer-in-emr.html
 folder: api
-published: false
+published: true
 ---
 
 
