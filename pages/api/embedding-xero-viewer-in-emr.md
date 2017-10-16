@@ -1,12 +1,13 @@
 ---
 title: Embedding XERO Viewer in the EMR system
-last_updated: Sep 18, 2017
-keywords: tags, navigation, buttons, links, association
-summary: 
+last_updated: 'Sep 18, 2017'
+keywords: 'tags, navigation, buttons, links, association'
+summary: null
 sidebar: mydoc_sidebar
 toc: false
 permalink: embedding-xero-viewer-in-emr.html
 folder: api
+published: false
 ---
 
 
@@ -16,7 +17,7 @@ folder: api
 
 
 ## Using HTML iFrames
-The HTML iFrame element enables you to embed the XERO Viewer application within a web-based EMR system. iFrames are supported in all major browsers, including Internet Explorer and Mozilla Firefox. The two documents remain independent of one another, but the user sees them as an integrated web page. When you embed XERO Viewer into the user interface of the EMR, the user does not have additional windows to manage. Content from the EMR (such as a radiology report or clinical information) is displayed alongside the images.
+The HTML iFrame element enables you to embed the XERO Viewer application within a web-based EMR system. iFrames are supported in all major browsers, including Internet Explorer and Mozilla Firefox. The two documents remain independent of one another, but the user sees them as an integrated web page. When you embed XERO Viewer into the user interface of the EMR, the user does not have additional windows to manage. Content from the EMR (such as a radiology report or clinical information) is displayed alongside the images. This is a test entry in prose.io.
 
 The following example shows a basic iFrame element and its contents:
 
