@@ -1,15 +1,17 @@
 ---
 title: Copyright information
-keywords: notes, tips, cautions, warnings, admonitions
-last_updated: Sep 18, 2017
-summary: 
+keywords: 'notes, tips, cautions, warnings, admonitions'
+last_updated: 'Sep 18, 2017'
+summary: null
 sidebar: mydoc_sidebar
 permalink: copyright-info.html
 folder: api
+published: true
 ---
 
 © 2017 Agfa HealthCare N.V., Septestraat 27, B-2640, Mortsel, Belgium. All rights reserved. No parts of this document may be reproduced, copied, translated, adapted or transmitted in any form or by any means without prior written permission of Agfa HealthCare N.V.
 
+Testing Prose....
 
 {% include important.html content="U.S. Federal law restricts this device to sale by or on the order of a physician." %}
 
